@@ -23,7 +23,6 @@ kotlin {
         it.binaries.framework {
             baseName = "shared"
             isStatic = false
-            linkerOpts.add("-ios_version_min 13.0")
         }
     }
 
