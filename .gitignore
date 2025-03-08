@@ -1,0 +1,27 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+
+# Ignore Gradle files
+.gradle/
+build/
+.idea/
+
+# Ignore iOS build files
+iosApp/Pods/
+iosApp/.swiftpm/
+iosApp/.build/
+iosApp/DerivedData/
+
+# Ignore SQLDelight generated files (optional)
+shared/build/
+
+# Ignore log files
+*.log
