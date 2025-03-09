@@ -31,12 +31,12 @@ NotesApp/
 ### Android
 Home Screen            |  Details Screen
 :-------------------------:|:-------------------------:
-![Android Home]<img src="screenshots/android_home.png" width="300"> | ![Android Details] <img src="screenshots/android_details.png" width="300">
+<img src="screenshots/android_home.png" width="200"> | <img src="screenshots/android_details.png" width="200">
 
 ### iOS
 Home Screen            |  Details Screen
 :-------------------------:|:-------------------------:
-![iOS Home](screenshots/ios_home.png) | ![iOS Details](screenshots/ios_details.png)
+<img src="screenshots/ios_home.png" width="200"> | <img src="screenshots/ios_details.png" width="200">
 
 
 ---
